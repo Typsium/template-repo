@@ -1,0 +1,10 @@
+[package]
+name = "typsium-"
+version = "0.1.0"
+license = "MIT"
+entrypoint = "lib.typ"
+authors = [""]
+description = "Display and format something in Typst."
+categories = [ "layout", "text", "paper" ]
+disciplines = [ "education", "chemistry" ]
+keywords = ["chemistry", "chemical", "reaction", "formula", "equation", "electron", "atom", "molecule"]
