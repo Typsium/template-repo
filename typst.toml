@@ -1,9 +1,9 @@
 [package]
-name = "typsium-"
+name = "typsium"
 version = "0.1.0"
 repository = "https://github.com/Typsium/typsium"
 license = "MIT"
-entrypoint = "lib.typ"
+entrypoint = "src/lib.typ"
 authors = [""]
 description = "Display and format something in Typst."
 categories = [ "layout", "text", "paper" ]
